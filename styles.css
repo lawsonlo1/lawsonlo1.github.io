@@ -1,10 +1,10 @@
-    body {
+body {
     margin: 0;
     font-family: Arial, sans-serif;
   }
   
   header {
-    background-color: #333;
+    background-color: #0A66C2;
     color: #fff;
     padding: 20px;
   }
@@ -43,7 +43,7 @@
   }
   
   footer {
-    background-color: #333;
+    background-color: #0A66C2;
     color: #fff;
     padding: 20px;
     text-align: center;
